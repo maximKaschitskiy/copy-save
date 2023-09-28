@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="copy-save-client">
+        <HostList>
+            <Host Name="PPRO" Port="3020"/>
+        </HostList>
+    </Extension>
+    <Extension Id="copy-save-server">
+        <HostList>
+            <Host Name="PPRO" Port="3030"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
