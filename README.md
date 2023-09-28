@@ -5,7 +5,7 @@ Panel for Adobe Premiere Pro, which provide import files use clipboard or throug
 ## Description
 There is UI interface additional for make import files in Premiere more simple.
 
-https://github.com/maximKaschitskiy/copy-save/assets/67905360/f59fb64d-7348-4dd2-b44a-5b709bd41140
+https://github.com/maximKaschitskiy/copy-save/assets/67905360/a092922d-2e24-4e8a-8257-488b2872d156
 
 ## Technologies
 
